@@ -1,0 +1,5 @@
+# Ignore arquivos de build e temporários
+bin/
+obj/
+*.tmp 
+.vs/
